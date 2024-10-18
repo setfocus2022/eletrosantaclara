@@ -38,15 +38,14 @@ export default function Tratamentos() {
         
           <h3>Alexandre</h3>
           <div className={styles.description}>
-          <p>
-                <img src="/icons/emailIcon.svg" alt="email" />
+          <li className={styles.separador}>
+                <p>
+                  <img src="/icons/emailIcon.svg" alt="email" />
                   vendas@eletrosantaclara.com.br
-                </p> 
+                </p>
+              </li>
 
-            <p>           
-            vendas10@eletrosantaclara.com. 
-            </p>
-         </div>
+               </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
         
