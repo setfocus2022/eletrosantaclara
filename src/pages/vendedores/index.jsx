@@ -38,12 +38,10 @@ export default function Tratamentos() {
         
           <h3>Alexandre</h3>
           <div className={styles.description}>
-          <li className={styles.separador}>
-                <p>
-                  <img src="/icons/emailIcon.svg" alt="email" />
-                  vendas@eletrosantaclara.com.br
-                </p>
-              </li>
+          <p>
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    <a>vendas10@eletrosantaclara.com.br</a>
+                </p> 
 
                </div>
         </div>
