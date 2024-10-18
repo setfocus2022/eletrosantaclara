@@ -41,6 +41,8 @@ export default function Tratamentos() {
           <p>
                 <img src="/icons/emailIcon.svg" alt="email" />
                     <a>vendas10@eletrosantaclara.com.br</a>
+                    <a href="mailto:vendas10@eletrosantaclara.com.br"></a>  
+
                 </p> 
 
                </div>
