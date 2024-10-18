@@ -38,6 +38,11 @@ export default function Tratamentos() {
         
           <h3>Alexandre</h3>
           <div className={styles.description}>
+          <p>
+                <img src="/icons/emailIcon.svg" alt="email" />
+                  vendas@eletrosantaclara.com.br
+                </p> 
+
             <p>           
             vendas10@eletrosantaclara.com. 
             </p>
@@ -69,7 +74,7 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />  */}
-          
+
           <h3>Gabriel</h3>
           <div className={styles.description}>
             <p>
