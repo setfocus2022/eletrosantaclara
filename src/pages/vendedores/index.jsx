@@ -63,12 +63,13 @@ export default function Tratamentos() {
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
+         {/* <MyImage
             src="/images/contato1.png"
             alt="Vendas - Gabriel"
             width="350"
             height="279"
-          />
+          />  */}
+          
           <h3>Gabriel</h3>
           <div className={styles.description}>
             <p>
@@ -150,7 +151,7 @@ export default function Tratamentos() {
             height="279"
             left
           /> */}
-          
+
           <h3>Mario</h3>
           <div className={styles.description}>
             <p>
