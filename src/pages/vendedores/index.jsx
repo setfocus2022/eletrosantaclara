@@ -44,32 +44,21 @@ export default function Tratamentos() {
          </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/dione.png"
-            alt="Compras"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Compras - Dione</h3>
+        
+          <h3>André</h3>
           <div className={styles.description}>
             <p>
-            compras@eletrosantaclara.com.br
+            vendas08@eletrosantaclara.com.br
             </p>
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato2.png"
-            alt="Financeiro"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Financeiro - Silvone</h3>
+         
+          <h3>Felipe</h3>
           <div className={styles.description}>
             <p>
-            contasareceber@eletrosantaclara.com.br
+            vendas@eletrosantaclara.com.br
+
             </p>
           </div>
         </div>
@@ -80,7 +69,7 @@ export default function Tratamentos() {
             width="350"
             height="279"
           />
-          <h3>Vendas - Gabriel</h3>
+          <h3>Gabriel</h3>
           <div className={styles.description}>
             <p>
             vendas01@eletrosantaclara.com.br  
@@ -88,46 +77,49 @@ export default function Tratamentos() {
            </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
+        {/*  <MyImage
             src="/images/contato1.png"
             alt="vendas03@eletrosantaclara.com.br"
             width="350"
             height="279"
             left
-          />
-          <h3>Vendas - Mario </h3>
+          />  */}
+
+          <h3>Luca</h3>
           <div className={styles.description}>
             <p>
-            vendas03@eletrosantaclara.com.br
+            vendas04@eletrosantaclara.com.br
             </p>
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
+         {/*  <MyImage
             src="/images/contato2.png"
             alt="Contas a Receber"
             width="350"
             height="279"
             left
-          />
-          <h3>Financeiro - João</h3>
+          /> */}
+
+          <h3>José Evandro</h3>
           <div className={styles.description}>
             <p>
-            contasareceber2@eletrosantaclara.com.br
+            vendas05@eletrosantaclara.com.br
             </p>
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
+         {/*   <MyImage
             src="/images/contato1.png"
             alt="vendas04@eletrosantaclara.com.br"
             width="350"
             height="279"
-          />
-          <h3>Vendas - Guilherme</h3>
+          /> */}
+
+          <h3>Rangel</h3>
           <div className={styles.description}>
             <p>
-            vendas04@eletrosantaclara.com.br  
+            vendas09@eletrosantaclara.com.br
             </p>
             </div>
         </div>        
@@ -135,17 +127,18 @@ export default function Tratamentos() {
         
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
+          {/*   <MyImage
             src="/images/contato1.png"
             alt=" vendas05@eletrosantaclara.com.br"
             width="350"
             height="279"
             left
-          />
-          <h3>Vendas - José Evandro</h3>
+          /> */}
+
+          <h3>Juno</h3>
           <div className={styles.description}>
             <p>
-            vendas05@eletrosantaclara.com.br
+            vendas07@eletrosantaclara.com.br
             </p>
           </div>
         </div>
