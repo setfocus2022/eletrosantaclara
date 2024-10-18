@@ -150,86 +150,22 @@ export default function Tratamentos() {
             height="279"
             left
           />
-          <h3>Financeiro - Lucas</h3>
+          <h3>Mario</h3>
           <div className={styles.description}>
             <p>
-            contasapagar@eletrosantaclara.com.br
+            vendas03@eletrosantaclara.com.br
             </p>
           </div>
         </div>
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato1.png"
-            alt="Vendas"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Vendas - Gian</h3>
-          <div className={styles.description}>
-            <p>
-            vendas08@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+        
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato1.png"
-            alt="Vendas"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Vendas - Leonardo</h3>
-          <div className={styles.description}>
-            <p>
-            vendas09@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+       
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato1.png"
-            alt="Financeiro"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Financeiro - Flávia</h3>
-          <div className={styles.description}>
-            <p>
-            cobranca3@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+      
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato1.png"
-            alt="Vendas"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Vendas - Alexandre</h3>
-          <div className={styles.description}>
-            <p>
-            vendas10@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+       
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage src="/images/contato1.png" alt="Vendas" width="350" height="279" left />
-          <h3>Vendas - João </h3>
-          <div className={styles.description}>
-            <p>
-            vendas06@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+      
         
         {/* <div className={styles.treatmentsItem} data-aos="fade-up">
           <MyImage
@@ -245,15 +181,7 @@ export default function Tratamentos() {
           </div>
         </div> */}
 
-        <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage src="/images/contato1.png" alt="Vendas" width="350" height="279" left />
-          <h3>Vendas - Juno</h3>
-          <div className={styles.description}>
-            <p>
-            vendas07@eletrosantaclara.com.br
-            </p>
-          </div>
-        </div>
+  
 
       </main>
 
