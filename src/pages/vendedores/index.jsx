@@ -55,7 +55,7 @@ export default function Tratamentos() {
           <p>
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas08@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas08@eletrosantaclara.com.br"> vendas08@eletrosantaclara.com.br </a>  
 
                 </p> 
             
@@ -69,7 +69,7 @@ export default function Tratamentos() {
         <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas@eletrosantaclara.com.br"> vendas@eletrosantaclara.com.br </a>  
 
                 </p> 
            
@@ -89,7 +89,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas01@eletrosantaclara.com.br "> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas01@eletrosantaclara.com.br "> vendas01@eletrosantaclara.com.br </a>  
 
                 </p> 
             
@@ -109,7 +109,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas04@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas04@eletrosantaclara.com.br"> vendas04@eletrosantaclara.com.br </a>  
 
                 </p> 
          
@@ -130,7 +130,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas05@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas05@eletrosantaclara.com.br"> vendas05@eletrosantaclara.com.br </a>  
 
                 </p> 
             
@@ -149,7 +149,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas09@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas09@eletrosantaclara.com.br"> vendas09@eletrosantaclara.com.br </a>  
 
                 </p> 
         
@@ -173,7 +173,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas07@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas07@eletrosantaclara.com.br"> vendas07@eletrosantaclara.com.br </a>  
 
                 </p> 
                      </div>
@@ -193,7 +193,7 @@ export default function Tratamentos() {
           <p> 
                 <img src="/icons/emailIcon.svg" alt="email" />
                     
-                    <a href="mailto:vendas03@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+                    <a href="mailto:vendas03@eletrosantaclara.com.br"> vendas03@eletrosantaclara.com.br </a>  
 
                 </p> 
            
