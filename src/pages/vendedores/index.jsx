@@ -51,19 +51,28 @@ export default function Tratamentos() {
         
           <h3>André</h3>
           <div className={styles.description}>
-            <p>
-            vendas08@eletrosantaclara.com.br
-            </p>
+
+          <p>
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas08@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+            
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
          
           <h3>Felipe</h3>
           <div className={styles.description}>
-            <p>
-            vendas@eletrosantaclara.com.br
 
-            </p>
+        <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+           
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -76,9 +85,14 @@ export default function Tratamentos() {
 
           <h3>Gabriel</h3>
           <div className={styles.description}>
-            <p>
-            vendas01@eletrosantaclara.com.br  
-            </p>
+
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas01@eletrosantaclara.com.br "> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+            
            </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -92,9 +106,13 @@ export default function Tratamentos() {
 
           <h3>Luca</h3>
           <div className={styles.description}>
-            <p>
-            vendas04@eletrosantaclara.com.br
-            </p>
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas04@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+         
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -108,9 +126,14 @@ export default function Tratamentos() {
 
           <h3>José Evandro</h3>
           <div className={styles.description}>
-            <p>
-            vendas05@eletrosantaclara.com.br
-            </p>
+
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas05@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+            
           </div>
         </div>
         <div className={styles.treatmentsItem} data-aos="fade-up">
@@ -123,9 +146,13 @@ export default function Tratamentos() {
 
           <h3>Rangel</h3>
           <div className={styles.description}>
-            <p>
-            vendas09@eletrosantaclara.com.br
-            </p>
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas09@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+        
             </div>
         </div>        
 
@@ -142,10 +169,14 @@ export default function Tratamentos() {
 
           <h3>Juno</h3>
           <div className={styles.description}>
-            <p>
-            vendas07@eletrosantaclara.com.br
-            </p>
-          </div>
+
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas07@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+                     </div>
         </div>
       <div className={styles.treatmentsItem} data-aos="fade-up">
         {/*  <MyImage
@@ -158,9 +189,14 @@ export default function Tratamentos() {
 
           <h3>Mario</h3>
           <div className={styles.description}>
-            <p>
-            vendas03@eletrosantaclara.com.br
-            </p>
+
+          <p> 
+                <img src="/icons/emailIcon.svg" alt="email" />
+                    
+                    <a href="mailto:vendas03@eletrosantaclara.com.br"> vendas10@eletrosantaclara.com.br </a>  
+
+                </p> 
+           
           </div>
         </div>
         
