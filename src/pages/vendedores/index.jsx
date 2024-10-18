@@ -35,17 +35,11 @@ export default function Tratamentos() {
       <main className={`${styles.treatments} mainContainer`}>
 
         <div className={styles.treatmentsItem} data-aos="fade-up">
-          <MyImage
-            src="/images/contato1.png"
-            alt="Felipe"
-            width="350"
-            height="279"
-            left
-          />
-          <h3>Vendas - Felipe</h3>
+        
+          <h3>Alexandre</h3>
           <div className={styles.description}>
             <p>           
-            vendas@eletrosantaclara.com.br 
+            vendas10@eletrosantaclara.com. 
             </p>
          </div>
         </div>
